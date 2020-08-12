@@ -1,0 +1,21 @@
+{
+    "name": "matte-black",
+    "displayName": "Matte Black",
+    "description": "Matte Black is color theme that simply preaches classiness. Matte Black it is.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Matte Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Matte Black-color-theme.json"
+            }
+        ]
+    }
+}
