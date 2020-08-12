@@ -1,7 +1,7 @@
 {
     "name": "matte-black",
     "displayName": "Matte Black",
-    "description": "Matte Black is color theme that simply preaches classiness. Matte Black it is.",
+    "description": "Paint it black",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.47.0"
